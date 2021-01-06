@@ -15,4 +15,4 @@ to run and try my app on **repl.it**.
 
 ### GUI   
    
-![](images/main_window.png)
+![](images/snake_game.png)
